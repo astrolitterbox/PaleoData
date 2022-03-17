@@ -1,0 +1,160 @@
+
+                 PyRate - v3.0 - 20211129
+
+          Bayesian estimation of origination,
+           extinction and preservation rates
+              from fossil occurrence data
+
+                 pyrate.help@gmail.com
+
+
+
+Module FastPyRateC was loaded.
+
+
+ Creodonta_PyRate ['data/Creodonta_PyRate.py'] 
+
+
+The analysis includes 132 species (0 were excluded)
+Using Gamma priors on the birth-death rates (G_l[1.1,1.1], G_m[1.1,1.1]).
+
+
+DATA SUMMARY
+
+132 taxa included in the analysis
+50 taxa have a single occurrence, 0 taxa are extant
+403 fossil occurrences (50 replicates), ranging from 59.61 (+/- 0.0) to 11.63 (+/- 0.0) Ma
+
+Taxon	FA	LA
+Acarictis_ryani	55.96	55.79	
+Ambloctonus_hyaenoides	53.42	53.42	
+Ambloctonus_major	53.42	53.07	
+Ambloctonus_priscus	55.96	55.79	
+Ambloctonus_sinosus	54.05	53.42	
+Anasinopa_hassi	19.5	19.5	
+Anasinopa_leakeyi	18.606	14.2	
+Apataelurus_kayi	45.38	45.38	
+Apterodon_gaudryi	33.9	33.9	
+Apterodon_macrognathus	37.7	33.9	
+Apterodon_minutus	33.9	33.9	
+Arfia_junnei	55.96	55.79	
+Arfia_opisthotoma	55.96	54.05	
+Arfia_shoshoniensis	55.96	55.79	
+Arfia_zele	55.79	55.79	
+Boualitomus_marocanensis	56	56	
+Buhakia_mogharensis	19.491	19.491	
+Dipsalidictis_aequidens	57.04	56.54	
+Dipsalidictis_krausei	57.24	56.54	
+Dipsalidictis_platypus	57.04	55.79	
+Dipsalidictis_transiens	55.96	55.07	
+Dipsalodon_churchillorum	58.24	57.04	
+Dipsalodon_matthewi	57.24	57.04	
+Dissopsalis_carnifex	17.131	11.63	
+Dissopsalis_pyroclasticus	14.2	14.2	
+Ekweeconfractus_amorui	17.7	17.7	
+Galecyon_mordax	55.79	55.79	
+Gazinocyon_vulpeculus	53.42	53.07	
+Glibzegdouia_tabelbalaensis	47.8	47.8	
+Hemipsalodon_grandis	45.38	35.24	
+Hemipsalodon_viejaensis	39.83	39.83	
+Hyaenodon_andrewsi	18.606	14.2	
+Hyaenodon_aymardi	27.82	27.82	
+Hyaenodon_brachyrhynchus	35.1	33.77	
+Hyaenodon_brevirostris	32.1	29.75	
+Hyaenodon_chunkhtensis	37.7	37.7	
+Hyaenodon_crucians	39.83	33.9	
+Hyaenodon_dubius	32.63	32.63	
+Hyaenodon_gervaisi	27.24	23.86	
+Hyaenodon_horridus	49.27	33.1	
+Hyaenodon_incertus	33.9	27.82	
+Hyaenodon_leptorhynchus	32.63	32.63	
+Hyaenodon_matthewi	17.2	17.2	
+Hyaenodon_megaloides	35.24	34.7	
+Hyaenodon_microdon	37.39	34.7	
+Hyaenodon_montanus	39.83	34.7	
+Hyaenodon_mustelinus	37.39	33.9	
+Hyaenodon_pervagus	33.9	33.9	
+Hyaenodon_pilgrimi	20.44	17.2	
+Hyaenodon_raineyi	35.92	35.92	
+Hyaenodon_venturae	39.83	35.92	
+Hyaenodon_vetus	39.83	35.92	
+Hyaenodon_weilini	22.8	22.8	
+Hyainailouros_bugtiensis	17.2	17.2	
+Hyainailouros_fourtaui	19.491	19.491	
+Hyainailouros_napakensis	17.2	17.2	
+Hyainailouros_nyanzae	20.44	14.2	
+Hyainailouros_sulzeri	17.2	12.85	
+Ischnognathus_savagei	39.83	39.83	
+Isohyaenodon_andrewsi	20.4	19.6	
+Koholia_atlasense	56	56	
+Kyawdawia_lupina	44.95	44.95	
+Leakeytherium_hiwegi	17.2	17.2	
+Lesmesodon_behnkeae	47.4	47.4	
+Limnocyon_cuspidens	49.27	49.27	
+Limnocyon_potens	47.96	45.38	
+Limnocyon_verus	51.91	48.64	
+Machaeroides_eothen	49.27	48.64	
+Machaeroides_simpsoni	53.07	52.11	
+Malfelis_badwaterensis	52.11	52.11	
+Megistotherium_osteothlastes	20.44	13.82	
+Metapterodon_brachycephalus	37.7	37.7	
+Metapterodon_kaiseri	17.2	17.2	
+Metapterodon_stromeri	21.7	21.7	
+Metasinopa_ethiopica	37.7	37.7	
+Metasinopa_napaki	20.44	20.44	
+Orienspterodon_dahkoensis	44.95	44.95	
+Oxyaena_forcipata	55.79	53.07	
+Oxyaena_gulo	55.96	55.54	
+Oxyaena_intermedia	55.96	55.79	
+Oxyaena_lupina	55.79	53.07	
+Oxyaena_pardalis	53.07	53.07	
+Oxyaena_simpsoni	53.42	53.42	
+Oxyaenodon_dysodus	45.38	42.78	
+Palaeonictis_occidentalis	55.96	55.79	
+Palaeonictis_peloria	56.54	56.54	
+Paratritemnodon_indicus	56.0	47.8	
+Paratritemnodon_jandewalensis	56	56	
+Patriofelis_coloradensis	51.91	51.91	
+Patriofelis_ferox	48.64	48.64	
+Patriofelis_ulta	51.91	49.27	
+Prolimnocyon_antiquus	53.07	52.11	
+Prolimnocyon_atavus	55.96	53.07	
+Prolimnocyon_eerius	55.79	55.79	
+Prolimnocyon_elisabethae	53.42	53.07	
+Prolimnocyon_haematus	55.96	55.79	
+Prolimnocyon_iudei	53.42	53.42	
+Protopsalis_tigrinus	53.07	53.07	
+Prototomus_deimos	55.96	55.79	
+Prototomus_martis	55.96	54.05	
+Prototomus_phobos	55.96	55.07	
+Prototomus_robustus	55.96	54.61	
+Prototomus_secundarius	55.96	53.07	
+Prototomus_viverrinus	55.79	53.07	
+Proviverra_edingeri	47.4	47.4	
+Proviverroides_piercei	49.27	49.27	
+Pterodon_africanus	37.7	17.2	
+Pterodon_kaiseri	20.44	17.2	
+Pterodon_leptognathus	37.7	37.7	
+Pterodon_nyanzae	23.03	23.03	
+Pterodon_phiomensis	37.7	37.7	
+Pterodon_zadoki	20.44	17.2	
+Pyrocyon_dioctetus	55.79	55.79	
+Sinopa_aethiopica	33.9	33.9	
+Sinopa_grangeri	51.91	49.27	
+Sinopa_major	49.27	45.38	
+Sinopa_minor	51.91	49.27	
+Sinopa_pungens	49.27	48.64	
+Sinopa_rapax	51.91	48.64	
+Teratodon_spekei	23.03	17.2	
+Thereutherium_thylacodes	27.24	27.24	
+Thinocyon_cledensis	48.64	48.64	
+Thinocyon_comptus	48.64	48.64	
+Thinocyon_medius	48.64	48.64	
+Thinocyon_mustelinus	49.27	49.27	
+Thinocyon_velox	51.91	49.27	
+Tinerhodon_disputatum	59.2	56.0	
+Tritemnodon_agilis	49.27	49.27	
+Tritemnodon_strenuus	55.96	51.91	
+Tytthaena_lichna	57.24	57.24	
+Tytthaena_parrisi	59.61	59.61	
+Yarshea_cruenta	44.95	44.95	
